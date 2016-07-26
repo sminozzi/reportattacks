@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ReportAttacks\n"
+"POT-Creation-Date: 2016-07-22 07:58-0000\n"
+"PO-Revision-Date: 2016-07-22 08:09-0000\n"
+"Last-Translator: Bill <sergiominozzi@gmail.com>\n"
+"Language-Team: Bill Minozzi <sergiominozzi@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+"X-Poedit-Basepath: F:\\wordpress\\reportattacks\\trunk\\\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: F:\\wordpress\\reportattacks\\trunk\n"
+
+#: F:\wordpress\reportattacks\trunk/functions/functions.php:164
+msgid "Overview"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:44
+msgid "Registration fail. Please, try again. Error:  "
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:87
+msgid "Check your eMail account for email from Blocklist.de"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:89
+msgid "Registration fail. Please, try again"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:103
+msgid "You need fill out all fields and accept the Blocklist Terms of Service"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:113
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:119
+msgid "Empty eMail. Please fill out eMail field"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:123
+msgid "Invalid eMail"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:134
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:141
+msgid "Empty Username. Please, fill out username field"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:146
+msgid "Username size need be between 5 and 20"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:153
+msgid ""
+"Invalid Username. You can use only normal characters - A to Z - (also "
+"numbers and underscore) of the English alphabet"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:208
+msgid "Fill Out this form to Get your free Blocklist API KEY"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:211
+msgid "Request once, then check your eMail account for email from Blocklist.de"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:213
+msgid "Check also your spam folder."
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:218
+msgid "Blocklist User Name *"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:219
+msgid "Type here your username"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:222
+msgid ""
+"To create your user name, you can use only normal characters - A to Z - "
+"(also numbers and underscore) of the English alphabet."
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:224
+msgid "Min size 5 max 20"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:229
+msgid "Your eMail *"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:230
+msgid "Type here your email"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:234
+msgid ""
+"Valid email address where you will receive your API KEY from Blocklist.de"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:240
+msgid "I read and agree with the terms of service (below) of Blocklist.de"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:245
+msgid "All 3 fields are required"
+msgstr ""
+
+#: F:\wordpress\reportattacks\trunk/includes/get-api-key/getapikey.php:260
+msgid ""
+"You can also request your free API KEY at: https://www.blocklist.de/en/"
+"register.html"
+msgstr ""
