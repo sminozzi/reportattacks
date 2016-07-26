@@ -1,16 +1,24 @@
-# ReportAttacks 
+#  ReportAttacks 
 Contributors: sminozzi
+
 Donate link: http://reportattacks.com/donate/
+
 Tags: attacks, report attacks, report brute force attacks, brute force, bruteforce, blocklist, blocklist.de, report abuse, abuse, fail2ban, fail 2 ban, login protection
+
 Requires at least: 4.0
+
 Tested up to: 4.5
+
 Stable tag: 1.4
+
 License: GPLv2 or later
+
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
 
 Report login brute force attacks and improve login security.
 
-== Description ==
+#  Description 
 
 Protect against brute force login attempts and create a blacklist of IP addresses.
  
@@ -20,11 +28,10 @@ No fail2ban or another software required.
 
 We hope our plugin makes the Internet better, safer and helps to clean infected PCs.
 
+Demo Video: http://reportattacks.com/demo-video
 
-<a href="http://reportattacks.com/demo-video/">Demo Video</a>
 
-
-== Installation ==
+#  Installation 
 
 
 1) Install via wordpress.org
@@ -37,7 +44,7 @@ Extract the zip file and just drop the contents in the wp-content/plugins/ direc
 
 
 
-== Frequently Asked Questions ==
+#  Frequently Asked Questions 
 
 How to Install?
 
@@ -66,11 +73,11 @@ http://reportattacks.com/contact/
 
 
 
-== Screenshots ==
+#  Screenshots 
 1. Control Panel
 2. Default IP Black List
 
-== Changelog ==
+# Changelog 
 1.4 2016-07-22 -  Included screen to get free API KEY from Blocklist.de
 
 1.3 2016-07-19 -  Improvements at Start Up Guide. 
