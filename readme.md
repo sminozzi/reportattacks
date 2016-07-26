@@ -73,10 +73,6 @@ http://reportattacks.com/contact/
 
 
 
-#  Screenshots 
-1. Control Panel
-2. Default IP Black List
-
 # Changelog 
 1.4 2016-07-22 -  Included screen to get free API KEY from Blocklist.de
 
